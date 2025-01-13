@@ -53,7 +53,7 @@ export default function Home() {
               <a href="https://www.linkedin.com/in/eric-fabian-ramirez-aguilar-8b0063230/">
                 <AiFillLinkedin />
               </a>
-              <a href="https://www.instagram.com/eric_ramireza_/">
+              <a href="https://www.instagram.com/ericc.raw/">
                 <AiFillInstagram />
               </a>
             </div>
